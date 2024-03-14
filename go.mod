@@ -8,6 +8,7 @@ require (
 )
 
 require (
+	github.com/TopinLLL/remotetest v0.0.0-20240314040450-ad863d1854c5 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	golang.org/x/net v0.20.0 // indirect
 	golang.org/x/sys v0.16.0 // indirect
